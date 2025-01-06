@@ -39,6 +39,15 @@ Our dataset consists of the following:
 
 **Products/Medicines** - These are just recommendations from a pet shop. 
 
+## Evaluation
+
+---
+
+We performed different epochs and 100 epochs, the default of the rasa epoch, worked the best for our dataset. We use the rasa command to view the following metrics.
+
+- The accuracy level is 42.9%, meaning that our chatbot struggles with conversational-level challenges  
+- The F1-score, Precision, and Accuracy at  85.7%, suggest that it handles the response to the user reliably after it identifies intents
+
 ## **How To Use VET-PAL Chatbot**
 ---
 (video)
