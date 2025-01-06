@@ -2,6 +2,9 @@
 
 # **Vet-Pal: A Veterinary ChatBot**
 
+### TAKE NOTE!!
+**- The test projects of our chatbot was not uploaded here because it exceeds the file size (25mb) requirements of github. Do not worry though because once you tried the code and run it from top to bottom, then it will automatically make the same test project as long as you use our initial dataset(placed on the Initial Dataset folder).**
+
 ## Powerpoint Slideshow
 ---
 
