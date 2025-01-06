@@ -4,7 +4,8 @@
 
 ## Powerpoint Slideshow
 ---
-(slideshow)
+
+https://github.com/user-attachments/assets/918ec709-c28a-4d23-85f1-4fa9a0614df0
 
 ## Chatbot Presentation
 ---
