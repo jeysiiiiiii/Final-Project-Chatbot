@@ -13,7 +13,9 @@ https://github.com/user-attachments/assets/918ec709-c28a-4d23-85f1-4fa9a0614df0
 ## Chatbot Video Presentation
 ---
 
-https://github.com/user-attachments/assets/6ff99b45-d5fa-46cd-9bf0-4c4cb58db4ac
+https://github.com/user-attachments/assets/ea90f9c4-ccd3-4a3f-b791-c8b415f6263c
+
+**!! THE VIDEO WAS COMPRESSED SINCE IT EXCEEDED 10MB SO ITS VIDEO QUALITY WAS POOR. THE VOICES ARE CLEAR HERE, SO IT IS OKAY. CHECK THE FOLDER ABOVE NAMED 'VET-PAL CHATBOT VIDEO PRESENTATION' TO WATCH THE GROUP PRESENTATION OF THE PROJECT !!**
 
 ## Introduction
 ---
