@@ -2,6 +2,10 @@
 
 # **Vet-Pal: A Veterinary ChatBot**
 
+## Powerpoint Slideshow
+---
+(slideshow)
+
 ## Chatbot Presentation
 ---
 (video)
