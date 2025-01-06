@@ -15,8 +15,6 @@ https://github.com/user-attachments/assets/918ec709-c28a-4d23-85f1-4fa9a0614df0
 
 https://github.com/user-attachments/assets/6ff99b45-d5fa-46cd-9bf0-4c4cb58db4ac
 
-**!! THE VIDEO WAS COMPRESSED SINCE IT EXCEEDED 10MB SO ITS VIDEO QUALITY WAS POOR. THE VOICES ARE CLEAR HERE, SO IT IS OKAY. CHECK THE FOLDER ABOVE NAMED 'VET-PAL CHATBOT VIDEO PRESENTATION' TO WATCH THE GROUP PRESENTATION OF THE PROJECT !!**
-
 ## Introduction
 ---
 The veterinary chatbot was made specifically to provide information about the first aid that pet owners can do at home when they do not know what to do. It can suggest the possible disease a pet has based on symptoms and the home remedies a person can do immediately. The chatbot won’t go beyond what it currently knows though since an actual vet can assess and analyze more serious cases. 
