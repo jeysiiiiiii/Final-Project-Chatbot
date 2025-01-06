@@ -7,9 +7,9 @@
 
 https://github.com/user-attachments/assets/918ec709-c28a-4d23-85f1-4fa9a0614df0
 
-## Chatbot Presentation
+## Chatbot Video Presentation
 ---
-(video)
+**CHECK THE FOLDER ABOVE NAMED 'VET-PAL CHATBOT VIDEO PRESENTATION' TO WATCH THE GROUP PRESENTATION OF THE PROJECT**
 
 ## Introduction
 ---
@@ -50,7 +50,8 @@ We performed different epochs and 100 epochs, the default of the rasa epoch, wor
 
 ## **How To Use VET-PAL Chatbot**
 ---
-(video)
+
+https://github.com/user-attachments/assets/8cf9ac78-ee54-4083-9e0a-b483c238efd8
 
 ## Conclusion
 ---
